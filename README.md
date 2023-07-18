@@ -1,5 +1,5 @@
 # aws-Elastic-Beanstalk
--go to aws
+-go to aws /n
 -open elastic beanstalk
 -select create enviornment
 -enter application name
